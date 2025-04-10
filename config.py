@@ -1,6 +1,6 @@
 # config.py
 
-API_TOKEN = '7506253619:AAH7TBNDPizCL8FjWCno9ivSn918cc4Cfcg'  # توکن ربات تلگرام
+API_TOKEN = '8102023215:AAHimyZibN4NH2bWJK581SN0uam3p50cZE0'  # توکن ربات تلگرام
 
 # کانال‌هایی که می‌خواهی ربات از آن‌ها پست بگیره
 CHANNEL_IDS = [
